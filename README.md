@@ -1,5 +1,13 @@
-# 💫 About Me:
-Currently working on BuildAlert (AI for unauthorized construction monitoring) & healthcare tech (Alzheimer's detection, disease prediction models). 🚀<br><br>Looking to collaborate on AI solutions, healthcare innovations, and impactful tech projects. 💡<br><br>Learning deep learning & machine learning to build smarter systems. 🌟<br><br>Ask me about AI, tech solutions, or solving tricky coding challenges! 💻<br><br>Fun Fact: Branch topper and passionate tutor helping students excel. 📚<br><br>
+Aspiring AI enthusiast with a passion for building tech-driven solutions that make a real-world impact. 🚀
+Always eager to collaborate on innovative ideas in AI, healthcare, and smart systems. 💡
+
+Currently diving deep into machine learning and deep learning to sharpen my skills and explore new possibilities. 🌟
+
+🏆 Recent Achievement: Winner of Best Girls Team – Hack SRIT 2025 for developing HealthQ, an AI-based hospital resource management system.
+
+Ask me about AI, tech innovations, or solving tricky coding challenges! 💻
+
+Fun Fact: Branch topper and a dedicated tutor, helping students achieve academic success. 📚
 
 
 ## 🌐 Socials:
