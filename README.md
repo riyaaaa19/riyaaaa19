@@ -1,4 +1,4 @@
-##💫 **About Me**  
+## 💫 **About Me**  
 Hi there! I'm Riya 👋, an aspiring AI developer passionate about creating impactful tech solutions.
 
 🎯 Currently exploring **Machine Learning** and **Deep Learning**  
