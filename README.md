@@ -1,19 +1,14 @@
-💫 About Me
-Hi there! I'm Riya 👋
-An aspiring AI developer passionate about building impactful tech solutions.
+💫 **About Me**  
+Hi there! I'm Riya 👋, an aspiring AI developer passionate about creating impactful tech solutions.
 
-🎯 Exploring Machine Learning and Deep Learning
+🎯 Currently exploring **Machine Learning** and **Deep Learning**  
+💻 Enthusiastic about solving **coding challenges** and optimizing real-world systems  
+🧠 Interested in AI applications in **healthcare**, **smart cities**, and **ethical tech**  
+📚 Proud to be the **Branch Topper** and a **tutor**, helping students excel academically  
+🏆 Winner of the **Best Girls Team – Hack SRIT 2025** for **HealthQ**, an AI-powered hospital management system  
 
-💻 Love solving coding challenges and optimizing real-world systems
-
-🧠 Keen on AI in healthcare, smart city solutions, and ethical tech
-
-📚 Branch Topper & tutor helping students excel academically
-
-🏆 Best Girls Team – Hack SRIT 2025 winner for HealthQ, an AI-powered hospital management system
-
-📬 Let’s collaborate on AI-driven projects that create real impact!
-
+📬 Let's collaborate on AI-driven projects that create a real impact!
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/riya-saraf-9223a9257/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riyasaraf19@gmail.com) 
