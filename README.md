@@ -1,13 +1,18 @@
-Aspiring AI enthusiast with a passion for building tech-driven solutions that make a real-world impact. 🚀
-Always eager to collaborate on innovative ideas in AI, healthcare, and smart systems. 💡
+💫 About Me
+Hi there! I'm Riya 👋
+An aspiring AI developer passionate about building impactful tech solutions.
 
-Currently diving deep into machine learning and deep learning to sharpen my skills and explore new possibilities. 🌟
+🎯 Exploring Machine Learning and Deep Learning
 
-🏆 Recent Achievement: Winner of Best Girls Team – Hack SRIT 2025 for developing HealthQ, an AI-based hospital resource management system.
+💻 Love solving coding challenges and optimizing real-world systems
 
-Ask me about AI, tech innovations, or solving tricky coding challenges! 💻
+🧠 Keen on AI in healthcare, smart city solutions, and ethical tech
 
-Fun Fact: Branch topper and a dedicated tutor, helping students achieve academic success. 📚
+📚 Branch Topper & tutor helping students excel academically
+
+🏆 Best Girls Team – Hack SRIT 2025 winner for HealthQ, an AI-powered hospital management system
+
+📬 Let’s collaborate on AI-driven projects that create real impact!
 
 
 ## 🌐 Socials:
