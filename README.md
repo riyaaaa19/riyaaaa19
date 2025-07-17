@@ -5,7 +5,7 @@ Hi there! I'm Riya 👋, an aspiring AI developer passionate about creating impa
 💻 Enthusiastic about solving **coding challenges** and optimizing real-world systems  
 🧠 Interested in AI applications in **healthcare**, **smart cities**, and **ethical tech**  
 📚 Proud to be the **Branch Topper** and a **tutor**, helping students excel academically  
-🏆 Winner of the **Best Girls Team – Hack SRIT 2025** for **HealthQ**, an AI-powered hospital management system  
+🏆 Winner of the **Hack SRIT 2025 - Best Girls Team** for **HealthQ**, an AI-powered hospital management system  
 
 📬 Let's collaborate on AI-driven projects that create a real impact!
 ---
